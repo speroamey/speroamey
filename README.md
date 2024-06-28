@@ -92,9 +92,9 @@ I am passionate about web development and have a strong background in various we
     </td>
     <td align="center" width="96">
       <a href="https://mowondoo.com/">
-        <img src="https://media.zeemly.com/zeemly/product/material-ui.png" width="48" height="48" alt="Material UI" />
+        <img src="https://img.icons8.com/?size=100&id=yUdJlcKanVbh&format=png&color=000000" width="48" height="48" alt="NexxtJS" />
       </a>
-      <br>MUI
+      <br>NextJS
     </td>
     <td align="center" width="96">
       <a href="https://mowondoo.com/">
