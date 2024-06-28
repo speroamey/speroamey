@@ -80,9 +80,9 @@ I am passionate about web development and have a strong background in various we
     </td>
     <td align="center" width="96">
       <a href="https://mowondoo.com/">
-        <img width="48" height="48" src="https://img.icons8.com/ios-filled/48/wordpress--v1.png" alt="WordPress"/>
+        <img width="48" height="48" src="https://img.icons8.com/?size=100&id=84710&format=png&color=000000" alt="bootstrap"/>
       </a>
-      <br>WordPress
+      <br>Bootstrap
     </td>
     <td align="center" width="96">
       <a href="https://mowondoo.com/">
