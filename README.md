@@ -1,4 +1,4 @@
-[# Hi, I'm Spero WAKPARE AMEY, 
+# Hi, I'm Spero WAKPARE AMEY, 
 
 I'm a seasoned web developer with over 9 years of professional experience in building and maintaining dynamic websites and applications. My expertise spans a wide range of technologies and frameworks, ensuring high-quality, efficient, and scalable web solutions.
 
@@ -11,49 +11,49 @@ I am passionate about web development and have a strong background in various we
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="https://codewithwaqas.com/">
+      <a href="https://mowondoo.com/">
         <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5"/>
       </a>
       <br>HTML & CSS
     </td>
     <td align="center" width="96">
-      <a href="https://codewithwaqas.com/">
+      <a href="https://mowondoo.com/">
         <img width="48" height="48" src="https://img.icons8.com/officel/48/php-logo.png" alt="php-logo"/>
       </a>
       <br>PHP
     </td>
     <td align="center" width="96">
-      <a href="https://codewithwaqas.com/">
+      <a href="https://mowondoo.com/">
         <img width="48" height="48" src="https://img.icons8.com/cute-clipart/48/codeigniter.png" alt="codeigniter"/>
       </a>
       <br>Codeigniter
     </td>
     <td align="center" width="96">
-      <a href="https://codewithwaqas.com/">
+      <a href="https://mowondoo.com/">
         <img width="48" height="48" src="https://img.icons8.com/nolan/48/laravel.png" alt="laravel"/>
       </a>
       <br>Laravel
     </td>
     <td align="center" width="96">
-      <a href="https://codewithwaqas.com/">
+      <a href="https://mowondoo.com/">
         <img width="48" height="48" src="https://img.icons8.com/fluency/48/my-sql.png" alt="my-sql"/>
       </a>
       <br>MySQL
     </td>
     <td align="center" width="96">
-      <a href="https://codewithwaqas.com/">
+      <a href="https://mowondoo.com/">
         <img width="48" height="48" src="https://img.icons8.com/arcade/48/api-settings.png" alt="api-settings" />
       </a>
       <br>REST API
     </td>
     <td align="center" width="96">
-      <a href="https://codewithwaqas.com/">
+      <a href="https://mowondoo.com/">
         <img width="48" height="48" src="https://img.icons8.com/color/48/stripe.png" alt="stripe"/>
       </a>
       <br>Stripe
     </td>
     <td align="center" width="96">
-      <a href="https://codewithwaqas.com/">
+      <a href="https://mowondoo.com/">
         <img width="48" height="48" src="https://img.icons8.com/color/48/paypal.png" alt="paypal"/>
       </a>
       <br>Paypal
@@ -61,49 +61,49 @@ I am passionate about web development and have a strong background in various we
   </tr>
   <tr>
     <td align="center" width="96">
-      <a href="https://codewithwaqas.com/">
+      <a href="https://mowondoo.com/">
         <img width="48" height="48" src="https://img.icons8.com/plasticine/48/google-maps-new.png" alt="google-maps-new"/>
       </a>
       <br>Maps
     </td>
     <td align="center" width="96">
-      <a href="https://codewithwaqas.com/">
+      <a href="https://mowondoo.com/">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="JavaScript" />
       </a>
       <br>JavaScript
     </td>
     <td align="center" width="96">
-      <a href="https://codewithwaqas.com/">
+      <a href="https://mowondoo.com/">
         <img width="48" height="48" src="https://img.icons8.com/ios-filled/48/jquery.png" alt="jquery"/>
       </a>
       <br>jQuery
     </td>
     <td align="center" width="96">
-      <a href="https://codewithwaqas.com/">
+      <a href="https://mowondoo.com/">
         <img width="48" height="48" src="https://img.icons8.com/ios-filled/48/wordpress--v1.png" alt="WordPress"/>
       </a>
       <br>WordPress
     </td>
     <td align="center" width="96">
-      <a href="https://codewithwaqas.com/">
+      <a href="https://mowondoo.com/">
         <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="48" height="48" alt="React JS" />
       </a>
       <br>React JS
     </td>
     <td align="center" width="96">
-      <a href="https://codewithwaqas.com/">
+      <a href="https://mowondoo.com/">
         <img src="https://media.zeemly.com/zeemly/product/material-ui.png" width="48" height="48" alt="Material UI" />
       </a>
       <br>MUI
     </td>
     <td align="center" width="96">
-      <a href="https://codewithwaqas.com/">
+      <a href="https://mowondoo.com/">
         <img width="64" height="64" src="https://img.icons8.com/nolan/64/tailwind_css.png" alt="tailwind_css"/>
       </a>
       <br>Tailwind
     </td>
     <td align="center" width="96">
-      <a href="https://codewithwaqas.com/">
+      <a href="https://mowondoo.com/">
         <img width="48" height="48" src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="redux"/>
       </a>
       <br>Redux
@@ -231,4 +231,3 @@ Feel free to reach out to me for any web development projects or collaborations.
 - **GitHub**: https://github.com/speroamey
 
 Thank you
-](https://img.icons8.com/?size=100&id=7vdHawe2VPlT&format=png&color=000000)
