@@ -1,4 +1,4 @@
-# Hi, I'm Spero WAKPARE AMEY, 
+[# Hi, I'm Spero WAKPARE AMEY, 
 
 I'm a seasoned web developer with over 9 years of professional experience in building and maintaining dynamic websites and applications. My expertise spans a wide range of technologies and frameworks, ensuring high-quality, efficient, and scalable web solutions.
 
@@ -231,3 +231,4 @@ Feel free to reach out to me for any web development projects or collaborations.
 - **GitHub**: https://github.com/speroamey
 
 Thank you
+](https://img.icons8.com/?size=100&id=7vdHawe2VPlT&format=png&color=000000)
