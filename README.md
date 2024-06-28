@@ -24,9 +24,9 @@ I am passionate about web development and have a strong background in various we
     </td>
     <td align="center" width="96">
       <a href="https://mowondoo.com/">
-        <img width="48" height="48" src="https://img.icons8.com/cute-clipart/48/codeigniter.png" alt="codeigniter"/>
+        <img width="48" height="48" src="https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png&color=000000" alt="Python"/>
       </a>
-      <br>Codeigniter
+      <br>Python
     </td>
     <td align="center" width="96">
       <a href="https://mowondoo.com/">
